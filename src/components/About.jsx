@@ -14,23 +14,32 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Welcome to my world of limitless possibilities, where professionalism meets boundless creativity. 
+        I am a passionate full stack developer with a knack for crafting exceptional digital experiences.
+        I create intuitive interfaces that enchant and engage. Constantly pushing the boundaries of 
+        innovation and staying ahead of industry trends, 
+        I bring a fresh and interdisciplinary approach to every project. 
+        Join me on a journey where professionalism and creativity converge, and together, 
+        we'll shape the future of digital experiences.
+
+
+
+
+
+
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Are you ready to unleash the power of creativity and professionalism? 
+        Let's collaborate and make a lasting impact together.
+
+
+
+
+
+
         </p>
       </div>
     </div>
